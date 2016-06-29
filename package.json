@@ -1,0 +1,53 @@
+{
+  "name": "my-passport-client",
+  "version": "0.1.0",
+  "description": "My passport client",
+  "main": "./index.js",
+  "dependencies": {
+    "assert-plus": "1.0.0",
+    "async": "1.5.2",
+    "cheerio": "0.20.0",
+    "moment": "2.13.0",
+    "request": "2.72.0",
+    "my-passport-model": "0.1.0",
+    "winston": "2.2.0",
+    "winston-loggly": "1.3.1"
+  },
+  "devDependencies": {
+    "chai": "3.5.0",
+    "config": "1.20.4",
+    "istanbul": "0.4.3",
+    "mocha": "2.5.3",
+    "rewire": "2.5.1"
+  },
+  "scripts": {
+    "prepublish": "npm prune",
+    "test": "mocha --recursive test -t 5000",
+    "test-cov": "istanbul cover node_modules/mocha/bin/_mocha -- --check-leaks --recursive -t 5000 test",
+    "test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --recursive -t 5000 test",
+    "func-test-travis": "istanbul cover node_modules/mocha/bin/_mocha --report lcovonly -- --recursive -t 5000 functional-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/my-passport/npm-my-passport-client.git"
+  },
+  "bugs": {
+    "url": "https://github.com/my-passport/npm-my-passport-client/issues"
+  },
+  "keywords": [
+    "passport",
+    "client"
+  ],
+  "author": {
+    "name": "Zenedith",
+    "email": "zenedith@wp.pl"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/my-passport/npm-my-passport-client",
+  "engines": {
+    "node": ">=6.2.1"
+  },
+  "readmeFilename": "README.md",
+  "_id": "my-passport-client@0.1.0",
+  "_from": "my-passport-client@^0.1.0"
+}

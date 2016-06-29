@@ -1,0 +1,14 @@
+.git*
+coverage/
+docs/
+examples/
+support/
+test/
+.DS_Store
+.travis.yml
+*.iml
+*.ipr
+*.iws
+.idea
+config/runtime.json
+config/runtime2.json

@@ -1,0 +1,22 @@
+{
+  "main-request": {
+    "url": "https://",
+    "timeout": 5000,
+    "headers": {
+      "User-Agent": "",
+      "Origin": "",
+      "Referer": ""
+    }
+  },
+  "check-case-request": {
+    "url": "https://",
+    "timeout": 5000,
+    "headers": {
+      "Content-Type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "User-Agent": "",
+      "Origin": "",
+      "Referer": "",
+      "X-Requested-With": "XMLHttpRequest"
+    }
+  }
+}
