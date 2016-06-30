@@ -1,10 +1,12 @@
 # my-passport-client
-[![npm version](https://badge.fury.io/js/shopping-drive-client.svg)](https://badge.fury.io/js/shopping-drive-client)
-[![bitHound Score](https://www.bithound.io/github/shopping-platform/npm-shopping-drive-client/badges/score.svg)](https://www.bithound.io/github/shopping-platform/npm-shopping-drive-client)
-[![Coverage Status](https://coveralls.io/repos/shopping-platform/npm-shopping-drive-client/badge.svg?branch=master&service=github)](https://coveralls.io/github/shopping-platform/npm-shopping-drive-client?branch=master)
-[![Build Status](https://travis-ci.org/shopping-platform/npm-shopping-drive-client.svg)](https://travis-ci.org/shopping-platform/npm-shopping-drive-client)
-[![Dependency Status](https://david-dm.org/shopping-platform/npm-shopping-drive-client.svg)](https://david-dm.org/shopping-platform/npm-shopping-drive-client)
-[![devDependency Status](https://david-dm.org/shopping-platform/npm-shopping-drive-client/dev-status.svg)](https://david-dm.org/shopping-platform/npm-shopping-drive-client#info=devDependencies)
+[![npm version](https://badge.fury.io/js/my-passport-client.svg)](https://badge.fury.io/js/my-passport-client)
+[![bitHound Score](https://www.bithound.io/github/my-passport/npm-my-passport-client/badges/score.svg)](https://www.bithound.io/github/my-passport/npm-my-passport-client)
+[![Coverage Status](https://coveralls.io/repos/my-passport/npm-my-passport-client/badge.svg?branch=master&service=github)](https://coveralls.io/github/my-passport/npm-my-passport-client?branch=master)
+[![Build Status](https://travis-ci.org/my-passport/npm-my-passport-client.svg)](https://travis-ci.org/my-passport/npm-my-passport-client)
+[![Dependency Status](https://david-dm.org/my-passport/npm-my-passport-client.svg)](https://david-dm.org/my-passport/npm-my-passport-client)
+[![devDependency Status](https://david-dm.org/my-passport/npm-my-passport-client/dev-status.svg)](https://david-dm.org/my-passport/npm-my-passport-client#info=devDependencies)
+
+[![NPM](https://nodei.co/npm/npm-my-passport-client.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/npm-my-passport-client/)
 
 My passport client
 
@@ -70,4 +72,4 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-[![Analytics](https://ga-beacon.appspot.com/UA-76449688-1/shopping-platform/shopping-drive-client/readme?pixel)](https://github.com/shopping-platform/shopping-drive-client)
+[![Analytics](https://ga-beacon.appspot.com/UA-80172503-1/my-passport/my-passport-client/readme?pixel)](https://github.com/my-passport/my-passport-client)
