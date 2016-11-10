@@ -7,7 +7,7 @@
     "assert-plus": "1.0.0",
     "async": "2.1.2",
     "cheerio": "0.22.0",
-    "moment": "2.15.2",
+    "moment": "2.16.0",
     "my-passport-model": "0.1.4",
     "request": "2.78.0",
     "winston": "2.3.0",
