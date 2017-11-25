@@ -18,7 +18,7 @@
     "config": "1.28.1",
     "istanbul": "0.4.5",
     "mocha": "4.0.1",
-    "rewire": "3.0.1"
+    "rewire": "3.0.2"
   },
   "scripts": {
     "prepublish": "npm prune",
